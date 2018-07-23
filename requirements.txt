@@ -3,3 +3,7 @@ scipy
 matplotlib
 astropy
 aplpy
+pyregion
+pyavm
+montage
+montage-wrapper
