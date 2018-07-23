@@ -6,3 +6,4 @@ pyregion
 pyavm
 astropy
 aplpy
+montage-wrapper
